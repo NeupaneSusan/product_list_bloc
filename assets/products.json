@@ -1,0 +1,163 @@
+[
+    {
+      "productId": "1",
+      "productName": "Smart Iphone X",
+      "categoryName": "Electronics",
+      "price": 999.99,
+      "image": "https://images.pexels.com/photos/968639/pexels-photo-968639.jpeg",
+      "description": "A high-end smartphone with a stunning display and powerful processor."
+    },
+    {
+      "productId": "2",
+      "productName": "Gaming Laptop",
+      "categoryName": "Electronics",
+      "price": 1499.99,
+      "image": "https://images.pexels.com/photos/19012056/pexels-photo-19012056/free-photo-of-person-playing-a-computer-game.jpeg",
+      "description": "A powerful gaming laptop with high performance and sleek design."
+    },
+    {
+      "productId": "3",
+      "productName": "Running Shoes",
+      "categoryName": "Fitness",
+      "price": 79.99,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Comfortable and durable running shoes for all your sports needs."
+    },
+    {
+      "productId": "4",
+      "productName": "Wireless Headphones X ",
+      "categoryName": "Accessories",
+      "price": 199.99,
+      "image": "https://images.pexels.com/photos/610945/pexels-photo-610945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "High-quality wireless headphones with excellent sound and battery life."
+    },
+    {
+      "productId": "5",
+      "productName": "Smartwatch Pro",
+      "categoryName": "Wearables",
+      "price": 249.99,
+      "image": "https://images.pexels.com/photos/3304170/pexels-photo-3304170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A feature-rich smartwatch to keep you connected and healthy."
+    },
+    {
+      "productId": "6",
+      "productName": "Electric Toothbrush",
+      "categoryName": "Personal Care",
+      "price": 59.99,
+      "image": "https://images.pexels.com/photos/3958092/pexels-photo-3958092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "An electric toothbrush with advanced cleaning technology."
+    },
+    {
+      "productId": "7",
+      "productName": "Blender Max",
+      "categoryName": "Kitchen Appliances",
+      "price": 89.99,
+      "image": "https://images.pexels.com/photos/7937012/pexels-photo-7937012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A powerful blender for smoothies, soups, and more."
+    },
+    {
+      "productId": "8",
+      "productName": "LED TV 50",
+      "categoryName": "Home Appliances",
+      "price": 599.99,
+      "image": "https://images.pexels.com/photos/3767170/pexels-photo-3767170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A 50-inch LED TV with 4K resolution and smart features."
+    },
+    {
+      "productId": "9",
+      "productName": "Digital Camera",
+      "categoryName": "Accessories",
+      "price": 449.99,
+      "image": "https://images.pexels.com/photos/1250282/pexels-photo-1250282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A digital camera with high resolution and versatile lens options."
+    },
+    {
+      "productId": "10",
+      "productName": "Yoga Mat",
+      "categoryName": "Fitness",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/4325462/pexels-photo-4325462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A comfortable and durable yoga mat for all your exercise needs."
+    },
+    {
+      "productId": "11",
+      "productName": "Coffee Maker",
+      "categoryName": "Kitchen Appliances",
+      "price": 129.99,
+      "image": "https://images.pexels.com/photos/4993062/pexels-photo-4993062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A coffee maker with advanced brewing technology for the perfect cup."
+    },
+    {
+      "productId": "12",
+      "productName": "Bluetooth Speaker",
+      "categoryName": "Accessories",
+      "price": 99.99,
+      "image": "https://images.pexels.com/photos/4430936/pexels-photo-4430936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A portable Bluetooth speaker with excellent sound quality."
+    },
+    {
+      "productId": "13",
+      "productName": "Air Fryer",
+      "categoryName": "Kitchen Appliances",
+      "price": 149.99,
+      "image": "https://static-01.daraz.com.np/p/151534be1b3f66f09f34ccabd604bff7.jpg_750x750.jpg_.webp",
+      "description": "An air fryer for healthy and delicious cooking."
+    },
+    {
+      "productId": "14",
+      "productName": "E-Reader",
+      "categoryName": "Electronics",
+      "price": 129.99,
+      "image": "https://images.pexels.com/photos/24822097/pexels-photo-24822097/free-photo-of-tablet-next-to-a-journal-and-a-lighted-candle.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "An e-reader with a high-resolution display for a comfortable reading experience."
+    },
+    {
+      "productId": "15",
+      "productName": "Electric Kettle",
+      "categoryName": "Kitchen Appliances",
+      "price": 49.99,
+      "image": "https://images.pexels.com/photos/3847410/pexels-photo-3847410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "An electric kettle with fast boiling technology."
+    },
+    {
+      "productId": "16",
+      "productName": "Vacuum Cleaner",
+      "categoryName": "Home Appliances",
+      "price": 199.99,
+      "image": "https://images.pexels.com/photos/4107276/pexels-photo-4107276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A powerful vacuum cleaner with advanced suction technology."
+    },
+    {
+      "productId": "17",
+      "productName": "Smart Light Bulb",
+      "categoryName": "Home Appliances",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/I/414Y21fGQoL._SX679_.jpg",
+      "description": "A smart light bulb with customizable colors and remote control."
+    },
+    {
+      "productId": "18",
+      "productName": "Portable Charger",
+      "categoryName": "Accessories",
+      "price": 49.99,
+      "image": "https://images.pexels.com/photos/19495448/pexels-photo-19495448/free-photo-of-a-hand-holding-a-power-bank.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A high-capacity portable charger for all your devices."
+    },
+    {
+      "productId": "19",
+      "productName": "Fitness Tracker",
+      "categoryName": "Wearables",
+      "price": 99.99,
+      "image": "https://images.pexels.com/photos/437038/pexels-photo-437038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A fitness tracker to monitor your activity and health metrics."
+    },
+    {
+      "productId": "20",
+      "productName": "Desk Lamp",
+      "categoryName": "Home Appliances",
+      "price": 39.99,
+      "image": "https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A stylish desk lamp with adjustable brightness."
+    }
+  ]
+  

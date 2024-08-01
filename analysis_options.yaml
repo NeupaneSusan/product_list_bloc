@@ -1,0 +1,22 @@
+
+include: package:flutter_lints/flutter.yaml
+analyzer: 
+   errors: 
+     unused_import: error
+     avoid_print: warning
+     prefer_single_quotes: warning
+     camel_case_types: error
+     constant_identifier_names: error
+     file_names: error
+    
+
+linter:
+ 
+  rules:
+    avoid_print: true  # Uncomment to disable the `avoid_print` rule
+    prefer_single_quotes: true # Uncomment to enable the `prefer_single_quotes` rule
+    camel_case_types: true
+    constant_identifier_names: true
+    file_names: true
+
+

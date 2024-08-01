@@ -1,0 +1,41 @@
+name: task_flutter
+description: "A new Flutter project."
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+ 
+  cupertino_icons: ^1.0.6
+  fpdart: ^1.1.0
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+  
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.11
+  bloc_test: ^9.1.7
+  
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+  
