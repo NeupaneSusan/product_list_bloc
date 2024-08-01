@@ -17,5 +17,5 @@ This project implements a product list feature using the BLoC pattern within a C
 - Use the filter and search options to filter products by category or product
 
 ## Testing
-- Unit tests are is done usescase repository;
-- Unit tests are is done bloc search 
+- To run : `flutter test`
+
